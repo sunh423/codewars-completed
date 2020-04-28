@@ -1,3 +1,4 @@
+#https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/python
 def likes(names):
     like_string = ""
     if len(names) == 0:
