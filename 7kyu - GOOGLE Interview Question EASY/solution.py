@@ -5,7 +5,7 @@ def get_strings(city):
     for char in city:
         repetition = ""
         counted_raw = ""
-        if char.isalpha() and char not in char_counts:
+        if char.isalpha():
             for i in range(city.count(char)):
                 repetition += "*"
                 counted_raw = f"{char}:{repetition}"
