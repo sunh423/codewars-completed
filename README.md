@@ -1,1 +1,2 @@
-# Within the different branches, I have the my solutions embedded in code.
+# This is not a project.
+I have created this codewars-completed repository to keep track of the different solutions I have written for the kyu problems as featured on Codewars.
